@@ -28,6 +28,7 @@
     <a href="#portfolio" class="w3-bar-item w3-button w3-text-grey w3-hover-black" onclick="closeNav()">Intereses</a>
     <a href="#about" class="w3-bar-item w3-button w3-text-grey w3-hover-black" onclick="closeNav()">Sobre mí</a>
     <a href="#contact" class="w3-bar-item w3-button w3-text-grey w3-hover-black" onclick="closeNav()">Contactame</a>
+    <a href="blog" class="w3-bar-item w3-button w3-text-grey w3-hover-black" onclick="closeNav()">Blog</a>
   </div>
 </nav>
 
@@ -48,7 +49,7 @@
     <p id="info1"></p>
     </footer>
     <h1 class="w3-xxxlarge"><b>Arturo Vargas Gutierrez</b></h1>
-    <p>T.I Programador</p>
+    <p>CEO de Casicomosen SAS de CV.</p>
   
     <img src="images/perfil.png" class="w3-image w3-hide-large w3-hide-small w3-round" style="display:block;width:60%;margin:auto;">
     <img src="images/perfil.png" class="w3-image w3-hide-large w3-hide-medium w3-round" width="1000" height="1333">
@@ -85,7 +86,7 @@
   <div class="w3-content w3-justify w3-text-grey w3-padding-32" id="about">
     <h2>Sobre mí</h2>
     <hr class="w3-opacity">
-    <p>Soy alguien que trata todos los días de ser un mejor ser humano
+    <p>Si deseas lanzar tu proyecto de blog, pagina web, o tienda online mandame mensaje para cotizar tu proyecto
       
     </p>
     <h3 class="w3-padding-16">Más</h3>
@@ -187,47 +188,45 @@
   <div class="w3-padding-32 w3-content w3-text-grey" id="contact" style="margin-bottom:64px">
     <h2>Contactame</h2>
     <hr class="w3-opacity">
-
+    <p>Mantengámonos en contacto. Envíame un mensaje</p>
+    <form method="POST" action="https://formspree.io/kuatroestrellas@gmail.com">
+      <p><input class="w3-input " type="text" placeholder="Name" required name="name" /></p>
+      <p><input class="w3-input " type="email" placeholder="Email" required name="email" /></p>
+      <p><input type="hidden" name="_subject" value="Website contact" /></p>
+      <p><input type="text" name="_gotcha" style="display:none" /></p>
+      <p><textarea class="w3-input w3-border" type="text" placeholder="Message" required name="message"></textarea></p>
+      <p>
+        <button class="w3-button w3-light-green w3-padding-large" type="submit">
+          <i class="fa fa-paper-plane"></i> ENVIAR
+        </button>
+      </p>
+    </form>
     <div class="w3-section">
-      <p><i class="fa fa-map-marker fa-fw w3-xxlarge w3-margin-right"></i> Yautepec, Oaxaca. 70507</p>
+      <p><i class="fa fa-map-marker fa-fw w3-xxlarge w3-margin-right"></i> Yautepec, Oaxaca</p>
       <p><i class="fa fa-phone fa-fw w3-xxlarge w3-margin-right"></i> Telefono: +52 1 951 466 7415</p>
       <a href="mailto:kuatroestrellas@gmail.com" target="_blank"><p><i class="fa fa-envelope fa-fw w3-xxlarge w3-margin-right"> </i> kuatroestrellas@gmail.com</p></a>
     </div>
     <footer class="w3-center">
       <p class="w3-xlarge">Mis redes</p>
-    <a href="https://join.skype.com/invite/J0fZyGFC8mX7" target="_blank" onmouseover="imprimir('Skype')" onmouseout="imprimir('')"><i class="fa fa-skype sk"></i></a>
-    <a href="https://www.facebook.com/kuatroestrellas1" target="_blank" onmouseover="imprimir('Enviame una solicitud')" onmouseout="imprimir('')"><i class="fa fa-facebook-official fb"></i></a>
-    <a href="https://github.com/kuatroestrellas" target="_blank" onmouseover="imprimir('Mis repositorios')" onmouseout="imprimir('')"><i class="fa fa-github gi"></i></a>
-    <a href="https://www.linkedin.com/in/arturo-vargas-gutierrez-8843b7171/" target="_blank" onmouseover="imprimir('Perfil LinkedIn')" onmouseout="imprimir('')"><i class="fa fa-linkedin li"></i></a>
-    <a href="https://api.whatsapp.com/send?phone=529514667415" target="_blank" onmouseover="imprimir('mi Whatsapp +52 1 951 466 7415')" onmouseout="imprimir('')"><i class="fa fa-whatsapp whp"></i></a>
-    <p class="w3-xlarge" id="info"></p>
-  </footer>
+      <a href="https://join.skype.com/invite/J0fZyGFC8mX7" target="_blank" onmouseover="imprimir('Skype')" onmouseout="imprimir('')"><i class="fa fa-skype sk"></i></a>
+      <a href="https://www.facebook.com/kuatroestrellas1" target="_blank" onmouseover="imprimir('Enviame una solicitud')" onmouseout="imprimir('')"><i class="fa fa-facebook-official fb"></i></a>
+      <a href="https://github.com/kuatroestrellas" target="_blank" onmouseover="imprimir('Mis repositorios')" onmouseout="imprimir('')"><i class="fa fa-github gi"></i></a>
+      <a href="https://www.linkedin.com/in/arturo-vargas-gutierrez-8843b7171/" target="_blank" onmouseover="imprimir('Perfil LinkedIn')" onmouseout="imprimir('')"><i class="fa fa-linkedin li"></i></a>
+      <a href="https://api.whatsapp.com/send?phone=529514667415" target="_blank" onmouseover="imprimir('mi Whatsapp +52 1 951 466 7415')" onmouseout="imprimir('')"><i class="fa fa-whatsapp whp"></i></a>
+      <p class="w3-xlarge" id="info"></p>
+    </footer>
     <!-- Image of location/map -->
     <img src="images/net.jpg" class="w3-image w3-greyscale" style="width:100%;margin:32px 0">
-   
-    <!--
-    <p>Lets get in touch. Send me a message:</p>
-    <form action="/action_page.php" target="_blank">
-      <p><input class="w3-input w3-padding-16 w3-border" type="text" placeholder="Name" required name="Name"></p>
-      <p><input class="w3-input w3-padding-16 w3-border" type="text" placeholder="Email" required name="Email"></p>
-      <p><input class="w3-input w3-padding-16 w3-border" type="text" placeholder="Subject" required name="Subject"></p>
-      <p><input class="w3-input w3-padding-16 w3-border" type="text" placeholder="Message" required name="Message"></p>
-      <p>
-        <button class="w3-button w3-light-grey w3-padding-large" type="submit">
-          <i class="fa fa-paper-plane"></i> SEND MESSAGE
-        </button>
-      </p>
-    </form>-->
   <!-- End Contact Section -->
   </div>  
   <p class="w3-center">Invitale un cafe a Arturo</p>
   <form class="w3-center" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="HGMKUF5XAAQ4Y">
-<input type="image" src="https://www.paypalobjects.com/es_XC/MX/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
-<img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
-</form>
-<br>
+    <input type="hidden" name="cmd" value="_s-xclick">
+    <input type="hidden" name="hosted_button_id" value="HGMKUF5XAAQ4Y">
+    <input type="image" src="https://www.paypalobjects.com/es_XC/MX/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
+    <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
+  </form>
+  <br>
 
   <!-- Footer -->
   <footer class="w3-container w3-padding-64 w3-light-grey w3-center w3-opacity w3-xlarge" style="margin:-24px">
