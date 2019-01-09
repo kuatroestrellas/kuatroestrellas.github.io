@@ -1,10 +1,10 @@
 # Site settings
-title: Arturo G
+title: Arturo V
 email: kuatroestrellas@gmail.com
 url: https://kuatroestrellas.github.io
 description: "Arturo Vargas Gutierrez"
-keywords: "your keywords, separated by commas"
-skills: "CEO - Autor - TI Expert"
+keywords: "pagina personal, "
+skills: "Ing. en TI - Freelancer"
 meta_author: G Arturo
 
 # Google webmaster tools
@@ -32,9 +32,9 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  #copyright: Dr. Henry Jekyll
   location: Ubicación
-  social: Mis redes sociales
+  social: Sigueme
   credits: Proximamente
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -54,11 +54,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Geograficamente Inestable
+  - line: Nizaviguiti
   - line: Yautepec, OAX 70540
 
 # Credits content
-credits: Espera el lanzamiento de mi tienda online TOTK NE AM
+credits: web personal
 #'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
