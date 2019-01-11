@@ -19,8 +19,24 @@
     {% include footer.html %}
     {% include modals.html %}
     {% include js.html %}
-    <!--Skype contact-->
+    <!--Skype contact
     <span class="skype-button bubble " data-contact-id="live:kuatroestrellas1" data-color="#092732"></span>
-    <script src="https://swc.cdn.skype.com/sdk/v1/sdk.min.js"></script>
+    <script src="https://swc.cdn.skype.com/sdk/v1/sdk.min.js"></script>-->
+<!-- WhatsHelp.io widget -->
+<!-- WhatsHelp.io widget -->
+<script type="text/javascript">
+    (function () {
+        var options = {
+            whatsapp: "+5219514667415", // WhatsApp number
+            call_to_action: "Send me Whatsapp", // Call to action
+            position: "right", // Position may be 'right' or 'left'
+        };
+        var proto = document.location.protocol, host = "whatshelp.io", url = proto + "//static." + host;
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
+        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+    })();
+</script>
+<!-- /WhatsHelp.io widget -->
     </body>
 </html>
