@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-img: arduface.jpg
+img: arduface.png
 alt: image-alt
 project-date: Diciembre 2018
 category: Arduino IoT
