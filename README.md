@@ -1,10 +1,9 @@
-Hola
-esta es mi página personal
-una especie de portafolio y curriculum
-
-ir
-
-https:kuatroestrellas.github.io
+#Hola#
+###esta es mi página personal###
+###una especie de portafolio y curriculum###
 
 
-tema clonado de https://github.com/jeromelachaud/freelancer-theme
+###[Visitar página](https://kuatroestrellas.github.io)###
+
+
+tema clonado de [Freelancer Theme](https://github.com/jeromelachaud/freelancer-theme)
