@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2019-02-11T17:04:44-06:00</updated>
+  <updated>2019-02-19T12:35:16-06:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -20,12 +20,12 @@
   
   
     <entry>
-      <title type="html">Project 1</title>
-      <link href="http://localhost:4000/web%20development/2014/07/18/project-1/" rel="alternate" type="text/html" title="Project 1" />
-      <published>2014-07-18T00:00:00-05:00</published>
-      <updated>2014-07-18T00:00:00-05:00</updated>
-      <id>http://localhost:4000/web%20development/2014/07/18/project-1</id>
-      <content type="html" xml:base="http://localhost:4000/web%20development/2014/07/18/project-1/"></content>
+      <title type="html">Www.nizaviguiti.com</title>
+      <link href="http://localhost:4000/web/2019/01/01/www.nizaviguiti.com/" rel="alternate" type="text/html" title="Www.nizaviguiti.com" />
+      <published>2019-01-01T00:00:00-06:00</published>
+      <updated>2019-01-01T00:00:00-06:00</updated>
+      <id>http://localhost:4000/web/2019/01/01/www.nizaviguiti.com</id>
+      <content type="html" xml:base="http://localhost:4000/web/2019/01/01/www.nizaviguiti.com/"></content>
 
       
       
@@ -40,7 +40,7 @@
       </author>
 
       
-        <category term="Web Development" />
+        <category term="Web" />
       
 
       
@@ -54,12 +54,12 @@
     </entry>
   
     <entry>
-      <title type="html">Project 2</title>
-      <link href="http://localhost:4000/web%20development/2014/07/17/project-2/" rel="alternate" type="text/html" title="Project 2" />
-      <published>2014-07-17T00:00:00-05:00</published>
-      <updated>2014-07-17T00:00:00-05:00</updated>
-      <id>http://localhost:4000/web%20development/2014/07/17/project-2</id>
-      <content type="html" xml:base="http://localhost:4000/web%20development/2014/07/17/project-2/"></content>
+      <title type="html">Arduface</title>
+      <link href="http://localhost:4000/arduino%20iot/2018/12/20/arduface/" rel="alternate" type="text/html" title="Arduface" />
+      <published>2018-12-20T00:00:00-06:00</published>
+      <updated>2018-12-20T00:00:00-06:00</updated>
+      <id>http://localhost:4000/arduino%20iot/2018/12/20/arduface</id>
+      <content type="html" xml:base="http://localhost:4000/arduino%20iot/2018/12/20/arduface/"></content>
 
       
       
@@ -74,143 +74,7 @@
       </author>
 
       
-        <category term="Web Development" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Project 3</title>
-      <link href="http://localhost:4000/web%20development/2014/07/16/project-3/" rel="alternate" type="text/html" title="Project 3" />
-      <published>2014-07-16T00:00:00-05:00</published>
-      <updated>2014-07-16T00:00:00-05:00</updated>
-      <id>http://localhost:4000/web%20development/2014/07/16/project-3</id>
-      <content type="html" xml:base="http://localhost:4000/web%20development/2014/07/16/project-3/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="Web Development" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Project 4</title>
-      <link href="http://localhost:4000/web%20development/2014/07/15/project-4/" rel="alternate" type="text/html" title="Project 4" />
-      <published>2014-07-15T00:00:00-05:00</published>
-      <updated>2014-07-15T00:00:00-05:00</updated>
-      <id>http://localhost:4000/web%20development/2014/07/15/project-4</id>
-      <content type="html" xml:base="http://localhost:4000/web%20development/2014/07/15/project-4/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="Web Development" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Project 6</title>
-      <link href="http://localhost:4000/web%20development/2014/07/15/project-6/" rel="alternate" type="text/html" title="Project 6" />
-      <published>2014-07-15T00:00:00-05:00</published>
-      <updated>2014-07-15T00:00:00-05:00</updated>
-      <id>http://localhost:4000/web%20development/2014/07/15/project-6</id>
-      <content type="html" xml:base="http://localhost:4000/web%20development/2014/07/15/project-6/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="Web Development" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Project 5</title>
-      <link href="http://localhost:4000/web%20development/2014/07/14/project-5/" rel="alternate" type="text/html" title="Project 5" />
-      <published>2014-07-14T00:00:00-05:00</published>
-      <updated>2014-07-14T00:00:00-05:00</updated>
-      <id>http://localhost:4000/web%20development/2014/07/14/project-5</id>
-      <content type="html" xml:base="http://localhost:4000/web%20development/2014/07/14/project-5/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="Web Development" />
+        <category term="Arduino IoT" />
       
 
       

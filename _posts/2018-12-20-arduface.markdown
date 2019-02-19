@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 1
+img: arduface.jpg
+alt: image-alt
+project-date: Diciembre 2018
+category: Arduino IoT
+description: Arduface es un proyecto con Arduino y Facebook <br><strong> -Controla tu arduino vía ¡Facebook! -</strong><br>La razón por la que se me ocurrió es que facebook está instalado en casi cualquier dispositivo movil, y se puede acceder a el a cualquier hora desde cualquier parte del mundo <br><br><img alt="arduface" src="../img/portfolio/arduface1.jpg" class="img-responsive img-centered">Practicamente chateamos con nuestro arduino, le envíamos el numero del led que queramos activar o desactivar y ya, no dejo el código fuente pero más adelante lo publicare en mi <a href="https://blog-kuatroestrellas.github.io">BLOG</a>, no se preocupen cuando lo haga les dejaré el link aquí.<br><br><img src="../img/portfolio/arduface2.jpg" class="img-responsive img-centered"><br>Aqui les dejo un demo
+
+---
