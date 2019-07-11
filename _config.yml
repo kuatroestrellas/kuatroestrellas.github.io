@@ -5,7 +5,7 @@ url: https://kuatroestrellas.github.io
 description: "Arturo Vargas Gutierrez"
 keywords: "pagina personal, "
 skills: "Ing en TICs - MAKER - Freelancer"
-meta_author: Arturo G
+meta_author: Arturo Vargas Gutierrez
 
 # Google webmaster tools
 google_verify:
@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: kuatroestrellas
-  location: Proximamente
+  location: visitas
   social: Sigueme
   credits: Apoyo
 
@@ -57,8 +57,8 @@ social:
 # Postal address (add as many lines as necessary)
 address:
 #  - line: Mi primer libro
-  - line: Lanzamiento de mi primer libro
-  - line: Espéralo
+  - line: <center><img src="https://www.cerotec.net/contador.php?t=5&s=3&i=127902"> </center>
+  #- line: https://www.cerotec.net/estadisticas-127902/kuatroestrellas.github.io
 
 # Credits content
 credits: '<a href="https://www.buymeacoffee.com/kuatroestrellas" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a><br>o<br><a target=_blank href=https://www.paypal.me/kuatroestrellas/10><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" /></a><br>¡Gracias!'
