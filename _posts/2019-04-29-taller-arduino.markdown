@@ -5,5 +5,4 @@ img: arturoarduino.jpg
 alt: image-alt
 project-date: Abril 2019
 category: Arduino Taller
-
 ---
