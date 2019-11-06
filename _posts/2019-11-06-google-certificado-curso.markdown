@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 4
-img: Coursera P9ERXNS8VPPR_01.jpg
+img: Coursera-P9ERXNS8VPPR_01.jpg
 alt: image-alt
 project-date: Noviembre 2019
 category: Certificado
