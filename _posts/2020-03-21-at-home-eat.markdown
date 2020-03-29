@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 6
-img: mazunte.png
+img: at-home.png
 alt: image-alt
 project-date: Marzo 2020
 category: Web Emprendimiento PWA
