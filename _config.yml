@@ -56,9 +56,9 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-#  - line: Mi primer libro
-  - line: <center><img src="https://www.cerotec.net/contador.php?t=5&s=3&i=127902"> </center>
-  - line: https://www.cerotec.net/estadisticas-127902/kuatroestrellas.github.io
+#  - nada solo escribí esta linea
+#  - line: <center><img src="https://www.cerotec.net/contador.php?t=5&s=3&i=127902"> </center>
+#  - line: https://www.cerotec.net/estadisticas-127902/kuatroestrellas.github.io
 
 # Credits content
 credits: '<a href="https://www.buymeacoffee.com/kuatroestrellas" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a><br>o<br><a target=_blank href=https://www.paypal.me/kuatroestrellas/10><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" /></a><br>¡Gracias!'
